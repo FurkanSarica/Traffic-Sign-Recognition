@@ -1,0 +1,17 @@
+# Temel Derin Öğrenme Kütüphanesi
+tensorflow
+
+# Arayüz için
+gradio
+
+# Resim İşleme ve Sayısal İşlemler
+numpy
+pillow
+
+# Grafik Çizdirme 
+matplotlib
+scikit-learn
+
+# VS Code'da Notebook Çalıştırmak İçin
+ipykernel
+notebook

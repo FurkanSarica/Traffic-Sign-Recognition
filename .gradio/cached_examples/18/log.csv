@@ -1,0 +1,3 @@
+Tahmin Sonuçları,timestamp
+"{""label"": ""H\u0131z Limiti (80km/s)"", ""confidences"": [{""label"": ""H\u0131z Limiti (80km/s)"", ""confidence"": 1.0}, {""label"": ""H\u0131z Limiti (60km/s)"", ""confidence"": 4.4027490986309203e-08}, {""label"": ""H\u0131z Limiti (50km/s)"", ""confidence"": 3.968297246359498e-09}]}",2025-12-26 23:32:16.155668
+"{""label"": ""Yol Ver"", ""confidences"": [{""label"": ""Yol Ver"", ""confidence"": 1.0}, {""label"": ""H\u0131z Limiti (50km/s)"", ""confidence"": 4.826052805795661e-21}, {""label"": ""Ta\u015f\u0131t Giremez"", ""confidence"": 7.780846215214336e-25}]}",2025-12-26 23:32:16.227398
