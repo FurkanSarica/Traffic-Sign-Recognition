@@ -9,7 +9,6 @@ Proje, hem teknik analiz notebook'unu hem de kullanıcı dostu **Gradio Web Aray
 * **Yüksek Başarım:** Test verilerinde **%97.8** genel doğruluk (Accuracy) oranı.
 * **Kritik Tespit:** Trafik güvenliği için hayati olan **"DUR (Stop)"** ve **"Yol Ver"** levhalarında **%100** başarı sağlanmıştır.
 * **Teknik Altyapı:** TensorFlow/Keras, OpenCV, Pandas ve Gradio.
-* **Renk Düzeltmesi:** OpenCV (BGR) ve model eğitimi (RGB) arasındaki renk uzayı farkları tespit edilip optimize edilmiştir.
 
 ## 📂 Proje Dosya Yapısı
 
